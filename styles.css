@@ -1,0 +1,313 @@
+.navbar1{
+    background-color: black;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    height: 8%;
+}
+.navbar2{
+    background-color: brown;
+    background-size: cover;
+    background-image: url(images/Aiming-Solutions-Banner.jpg);
+    height: 180px;
+    width: 100%;
+    position: relative;
+    top: auto;
+
+
+}
+
+.link-1 {
+    transition: 0.3s ease;
+    background: #3fa46a;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    border-top: 4px solid #3fa46a;
+    border-bottom: 4px solid #3fa46a;
+    padding: 10px 0;
+    margin: 0 10px;
+  }
+  .link-1:hover {
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+    padding: 4px 0; 
+  }
+a{
+    margin-left: 10px;
+}
+
+.followus{
+    margin-left: 30%;
+}
+.fb{
+    margin-left: 2%;
+}
+
+ul{
+    list-style: none;
+    background: none;
+    margin-left: 40%;
+    position: absolute;
+    
+}
+
+ul li{
+    display: inline-block;
+    position: relative;
+}
+
+ul li a{
+    display: block;
+    padding: 20px 25px;
+    color: rgb(254, 252, 252);
+    text-decoration: none;
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+ul li ul.dropdown{
+    width: max-content;
+    background-color: rgb(246, 246, 247);
+    position: absolute;
+    /* z-index: 999; */
+    display: none;
+    width: 200px;
+}
+
+ul li a:hover{
+    background-color: rgb(208, 194, 197);
+    width: auto;
+}
+
+ul li:hover ul.dropdown{
+    display: block;
+    width: auto;
+    
+}
+
+#my-paragraph{
+    color: rgb(5, 5, 5);
+}
+.digital_marketing{
+    margin-left: 600px;
+    margin-top: 30px;
+    height: 320px;
+    width: auto;
+}
+.web_development{
+    margin-left: 69px;
+    margin-top: 360px;
+    height: 303px;
+    width: auto;
+}
+.graphic_designing{
+    margin-left: 598px;
+    margin-top: 345px;
+    height: 320px;
+    width: auto;
+}
+.hosting{
+    margin-left: 69px;
+    margin-top: 360px;
+    height: 303px;
+    width: auto;
+}
+.video_animation{
+    margin-left: 600px;
+    margin-top: 345px;
+    height: 320px;
+    width: auto;
+}
+.app_development{
+    margin-left: 69px;
+    margin-top: 360px;
+    height: 303px;
+    width: 530px;
+}
+.follow_review{
+    margin-left: 600px;
+    margin-top: 360px;
+    height: 320px;
+    width: auto;
+}
+
+.container_1{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -294px 252px;
+    width: 357px;
+    float: none;
+    height: 271px;
+    
+}
+.container_2{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -285px 592px;
+    width: 375px;
+    float: none;
+    height: 271px;
+}
+.container_3{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -294px 252px;
+    width: 357px;
+    float: none;
+    height: 271px;
+    
+}
+.container_4{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -285px 604px;
+    width: 375px;
+    float: none;
+    height: 271px;
+}
+.container_5{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -294px 252px;
+    width: 357px;
+    float: none;
+    height: 271px;
+    
+}
+.container_6{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -285px 592px;
+    width: 375px;
+    float: none;
+    height: 271px;
+}
+.container_7{
+    border: 6px solid rgb(8, 8, 8);
+    background-color: rgb(255, 250, 250);
+    padding: 11px;
+    margin: -294px 252px;
+    width: 357px;
+    float: none;
+    height: 287px;
+    
+}
+.blue_box{
+    background-color: rgb(170, 221, 221);
+    height: 280px;
+    width: 400px;
+    width: 100%;
+    position: relative;
+    margin-top: 380px;
+    padding: 1px;
+    
+}
+.image_left{
+    float: left;
+    height: inherit;
+    margin-bottom: 10px;
+}
+.image_right{
+    float: right;
+    height: inherit;
+    width: fit-content;
+}
+
+.oval-button{
+    border-radius: 50px;
+    padding: 10px 20px;
+    background-color: rgb(14, 87, 118);
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    width: 130px;
+}
+
+.oval-button:hover{
+    background-color: black;
+}
+
+.container10{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    padding: 0px;
+    margin-top: 80px;
+    padding-top: 20px;
+}
+
+span {
+    color: #65136e;
+    font-weight: bold;
+    font-size: large;
+    text-shadow: 1px 1px 8px #000000;  
+    }
+  
+.small-button{
+    border-radius: 30px;
+    padding: 5px 10px;
+    background-color: rgb(14, 87, 118);
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.small-button:hover{
+    background-color: black;
+}
+
+.navbar3{
+    background-color: black;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    height: 8%;
+}
+
+.home{
+    
+    color: rgb(254, 252, 252);
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.terms{
+    
+    color: rgb(254, 252, 252);
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.pp{
+    
+    color: rgb(254, 252, 252);
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.contact{
+    
+    color: rgb(254, 252, 252);
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
